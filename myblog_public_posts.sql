@@ -1,0 +1,2 @@
+INSERT INTO public.posts (sno, title, slug, content, date, img_file) VALUES (1, 'My First blog', 'testing', 'I love doing this', '22:05:2020', 'about-bg.jpg');
+INSERT INTO public.posts (sno, title, slug, content, date, img_file) VALUES (2, 'blogs', 'first_post', 'snd post ', '22:05:2020', 'about-bg.jpg');
