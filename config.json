@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "postgresql://postgres:password@localhost/myblog",
+    "prod_url": "postgresql://postgres:password@localhost/myblog",
+    "fb_url":"http://facebook.com/myblog",
+    "tw_url":"http://twitter.com/myblog",
+    "gh_url":"http://github.com/myblog",
+    "blog_name": "myblog",
+    "gmail-user":"test@gmail.com",
+    "gmail-password":"",
+    "about_text": "this is to learn flask ",
+    "no_of_posts": 4,
+    "admin_user": "admin",
+    "admin_password": "password",
+    "upload_location": "//Users//truptiv"
+
+  }
+}
